@@ -2,6 +2,7 @@ package com.codekata.beginner;
 
 import java.util.Scanner;
 
+
 public class Driver_PositiveOrNegative {
 
 	public static void main(String[] args) {
